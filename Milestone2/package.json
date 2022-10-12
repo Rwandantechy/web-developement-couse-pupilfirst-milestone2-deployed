@@ -1,0 +1,12 @@
+{
+  "name": "milestone2",
+  "version": "1.0.0",
+  "description": "the milestone for level two in web development course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "home.html"
+  },
+  "author": "rwandantechy",
+  "license": "ISC"
+}
